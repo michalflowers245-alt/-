@@ -1,0 +1,7 @@
+interface:
+  display_name: "Case to Principle Writing"
+  short_description: "Use classic-book cases to build clearer explanations and stronger writing angles."
+  default_prompt: "Use $case-to-principle-writing to find a matching classic-book case, extract its principle, and turn it into a writing angle."
+
+policy:
+  allow_implicit_invocation: true
